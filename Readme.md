@@ -1,7 +1,9 @@
 <h2>Hello world</h2> My name is Grisha (nickname Sabr), I am a 3rd year student of UdSU, studying to be a programmer
 I want to become a cool backend developer, move abroad, work remotely, and coding all day and night...
 
-<img src="https://i.gifer.com/JXA0.gif">
+
+<img src="https://psv4.userapi.com/c520036/u2000050115/docs/d38/e875300449f5/file.gif?extra=mLWeGBz0_SfszjgwxICW-mtspEz-dEXFFXo0VQR3rL8Eo-OWSxTtM5T4xo-9OxjMRbKhcw3xfNMgbvuTmSACsxdKuyj_P2cGgDm-M4v9w9r4-La2_u6OwUS7_hjvJOzFmRwe6m3XuauhgxCTqn0BrOc3cXA" height="200px">
+
 
 Skills:
 
@@ -17,7 +19,11 @@ Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-b-r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>You can contact me:</h3>
+
 * [Telegram](https://t.me/Sabr554)
+
 * [VK](https://vk.com/pofastygrisha)
+
 * [habr.career](https://career.habr.com/s-a-b-r)
+
 * mail: po_fasty_grisha@mail.ru
