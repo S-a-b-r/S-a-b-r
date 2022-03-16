@@ -2,7 +2,7 @@
 I want to become a cool backend developer, move abroad, work remotely, and coding all day and night...
 
 
-<img src="https://psv4.userapi.com/c520036/u2000050115/docs/d38/e875300449f5/file.gif?extra=mLWeGBz0_SfszjgwxICW-mtspEz-dEXFFXo0VQR3rL8Eo-OWSxTtM5T4xo-9OxjMRbKhcw3xfNMgbvuTmSACsxdKuyj_P2cGgDm-M4v9w9r4-La2_u6OwUS7_hjvJOzFmRwe6m3XuauhgxCTqn0BrOc3cXA" height="200px">
+<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" height="200px">
 
 
 Skills:
