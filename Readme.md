@@ -1,4 +1,4 @@
-<h2>Hello world</h2> My name is Grisha (nickname Sabr), I am a 3rd year student of UdSU, studying to be a programmer
+<h2>Hello world</h2> My name is Grisha (nickname Sabr), I am a 4rd year student of UdSU, studying to be a programmer
 I want to become a cool backend developer, move abroad, work remotely, and coding all day and night...
 
 
