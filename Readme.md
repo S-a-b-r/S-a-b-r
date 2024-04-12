@@ -1,5 +1,4 @@
-<h2>Hello world</h2> My name is Grisha (nickname Sabr), I am a 4rd year student of UdSU, studying to be a programmer
-I want to become a cool backend developer, move abroad, work remotely, and coding all day and night...
+<h2>Hello world</h2> Здравствуйте, коллеги. Меня зовут Гриша, я - разработчик. Программирую на чем приходится, уже работал на C#, delphi, PHP, JS. А сейчас активно изучаю GOlang. Хочу уже развиться в конкретном стеке и быть в нем гуру, а не менять его каждые пол года... Дайте мне эту возможность и вы не пожалеете.
 
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" height="200px">
