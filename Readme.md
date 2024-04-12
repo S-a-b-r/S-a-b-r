@@ -4,6 +4,9 @@ I want to become a cool backend developer, move abroad, work remotely, and codin
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" height="200px">
 
+Codewars:
+
+![codewars](https://www.codewars.com/users/GeForse45/badges/large)
 
 Skills:
 
