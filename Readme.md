@@ -7,6 +7,10 @@ Codewars:
 
 ![codewars](https://www.codewars.com/users/GeForse45/badges/large)
 
+Hexlet:
+
+[MyHexletAccount](https://ru.hexlet.io/u/sabr)
+
 Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
