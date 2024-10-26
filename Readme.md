@@ -1,4 +1,4 @@
-<h2>Hello world</h2> Здравствуйте, коллеги. Меня зовут Григорий, я - fullstack разработчик. Программирую на чем приходится, уже работал на C#, delphi, PHP, JS. А сейчас активно изучаю GOlang. Хочу уже развиться в конкретном стеке и быть в нем гуру, а не менять его каждые пол года..
+<h2>Hello world</h2>
 
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" height="200px">
